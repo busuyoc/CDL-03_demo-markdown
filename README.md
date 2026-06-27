@@ -8,7 +8,7 @@ Also create a `Makefile` to build the program.
 
 Start from the following skeleton
 
-```c=
+```c
 #include <stdio.h>
 
 int main(void) { ... }
@@ -31,7 +31,7 @@ To test, run:
 ## Bonus: Python
 
 As bonus, create a similar program in Python, start from the following skelleton:
-```python=
+```python
 import sys
 
 def main():
@@ -44,7 +44,7 @@ if __name__ == __main__:
 *italic*
 `typewriter`
 ~~strikethrough~~
-```java=
+```java
 public static void main(String[] args) {
     System.out.prinln("Hello, world!");
 }
